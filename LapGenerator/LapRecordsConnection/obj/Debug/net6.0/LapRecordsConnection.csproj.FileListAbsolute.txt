@@ -1,0 +1,12 @@
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\bin\Debug\net6.0\LapRecordsConnection.deps.json
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\bin\Debug\net6.0\LapRecordsConnection.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\bin\Debug\net6.0\LapRecordsConnection.pdb
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.csproj.AssemblyReference.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.AssemblyInfoInputs.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.AssemblyInfo.cs
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.csproj.CoreCompileInputs.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\refint\LapRecordsConnection.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\LapRecordsConnection.pdb
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsConnection\obj\Debug\net6.0\ref\LapRecordsConnection.dll

@@ -1,0 +1,47 @@
+﻿@page
+@model LapGenerator.Pages.LapRecordsModel
+@{
+    <div class="text-center">
+        <h1 class="display-4">Lap Records</h1>
+    </div>
+    @if(Model.DisplayRecords == false)
+    {
+        <form method="post" name="Record Search form">
+            <label for="DriverName">Driver Name:</label>
+            <select name="DriverName">
+                <option value="">Select A Driver</option>
+                @foreach(string item in Model.Drivers)
+                {
+                    <option value="@item">@item</option>
+                }
+            </select>
+            <button class="btn btn-primary" asp-page-handler="SearchDriver">Search Driver</button>
+        </form>
+            <br />
+        <form method="post" name="Record Search form">
+            <label for="CarNumber">Car Number:</label>
+            <select name="CarNumber">
+                <option value="">Select A Car</option>
+                @foreach(string item in Model.Cars)
+                {
+                    <option value="@item">@item</option>
+                }
+            </select>
+            <button class="btn btn-primary" asp-page-handler="SearchCar">Search Car</button>
+        </form>
+    }
+    else if(Model.DriverSearch == false)
+    {
+        <h2>Car @Model.CarNumber has an average lap time of @Model.AverageLapTime</h2>
+        <form method="post" name="Record Search form">
+        <button class="btn btn-primary" asp-page-handler="Return">Return to Search</button>
+        </form>
+    }
+    else
+    {
+        <form method="post" name="Record Search form">
+        <h2>Driver @Model.DriverName has an average lap time of @Model.AverageLapTime</h2>
+        <button class="btn btn-primary" asp-page-handler="Return">Return to Search</button>
+        </form>
+    }
+}

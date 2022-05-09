@@ -1,0 +1,15 @@
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\bin\Release\net6.0\LapRecordsAPI.deps.json
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\bin\Release\net6.0\LapRecordsAPI.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\bin\Release\net6.0\LapRecordsAPI.pdb
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\bin\Release\net6.0\LapRecordsConnection.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\bin\Release\net6.0\LapRecordsConnection.pdb
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.csproj.AssemblyReference.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.AssemblyInfoInputs.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.AssemblyInfo.cs
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.csproj.CoreCompileInputs.cache
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.csproj.CopyComplete
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\refint\LapRecordsAPI.dll
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\LapRecordsAPI.pdb
+C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapRecordsAPI\obj\Release\net6.0\ref\LapRecordsAPI.dll
