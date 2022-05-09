@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ibJOcoWUx2o8dUuFzFaaLR8D86Y+qkcP6fsiHv/wvRyT+CVH+hwopD4e6yEI5JyoV78bAWvVSMUCrygdAc64zw==",
+  "dgSpecHash": "WvWDLKOBYUmX+2nMcGtDD5B4EgsbaiIRS6k44A98BG3LDfdSNCa95hODFLASl2vX7DjrIMvOfg2YgM0C2ITgew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
+  "projectFilePath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ultim\\.nuget\\packages\\microsoft.data.sqlite\\6.0.4\\microsoft.data.sqlite.6.0.4.nupkg.sha512",
     "C:\\Users\\ultim\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",

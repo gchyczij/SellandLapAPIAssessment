@@ -304,11 +304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
       "projectName": "LapRecordsAPI",
-      "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
+      "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsAPI\\LapRecordsAPI.csproj",
       "packagesPath": "C:\\Users\\ultim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsAPI\\obj\\",
+      "outputPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -328,8 +328,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {
-              "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj"
+            "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {
+              "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj"
             }
           }
         }

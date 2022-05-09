@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {}
+    "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {
+    "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj",
+        "projectUniqueName": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj",
         "projectName": "LapRecordsConnection",
-        "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj",
+        "projectPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\LapRecordsConnection.csproj",
         "packagesPath": "C:\\Users\\ultim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\LapGenerator\\LapGenerator\\LapRecordsConnection\\obj\\",
+        "outputPath": "C:\\Users\\ultim\\Documents\\Work Stuff\\SellandLapAPIAssessment\\LapGenerator\\LapRecordsConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

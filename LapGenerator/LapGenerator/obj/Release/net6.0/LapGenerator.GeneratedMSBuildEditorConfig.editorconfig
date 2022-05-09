@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LapGenerator
 build_property.RootNamespace = LapGenerator
-build_property.ProjectDir = C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapGenerator\
+build_property.ProjectDir = C:\Users\ultim\Documents\Work Stuff\SellandLapAPIAssessment\LapGenerator\LapGenerator\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ultim\Documents\Work Stuff\LapGenerator\LapGenerator\LapGenerator
+build_property.MSBuildProjectDirectory = C:\Users\ultim\Documents\Work Stuff\SellandLapAPIAssessment\LapGenerator\LapGenerator
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/Error.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/Index.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/LapRecords.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/LapRecords.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFwUmVjb3Jkcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/_ViewImports.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/_ViewStart.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ultim/Documents/Work Stuff/LapGenerator/LapGenerator/LapGenerator/Pages/Shared/_Layout.cshtml]
+[C:/Users/ultim/Documents/Work Stuff/SellandLapAPIAssessment/LapGenerator/LapGenerator/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jrwk8o6vlx

@@ -25,19 +25,33 @@ namespace LapGenerator.Pages
         }
         public IActionResult OnPostSearchDriver()
         {
-            DriverSearch = true;
-            DisplayRecords = true;
-            var lapController = new Laps();
-            AverageLapTime = lapController.LapAverageByDriver(DriverName);
-            return Page();
+            if (!String.IsNullOrEmpty(DriverName))
+            {
+                DriverSearch = true;
+                DisplayRecords = true;
+                var lapController = new Laps();
+                AverageLapTime = lapController.LapAverageByDriver(DriverName);
+                return Page();
+            }
+            else
+            {
+                return Redirect("LapRecords");
+            }
         }
         public IActionResult OnPostSearchCar()
         {
-            DriverSearch = false;
-            DisplayRecords = true;
-            var lapController = new Laps();
-            AverageLapTime = lapController.LapAverageByCar(CarNumber);
-            return Page();
+            if (!String.IsNullOrEmpty(CarNumber))
+            {
+                DriverSearch = false;
+                DisplayRecords = true;
+                var lapController = new Laps();
+                AverageLapTime = lapController.LapAverageByCar(CarNumber);
+                return Page();
+            }
+            else
+            {
+                return Redirect("LapRecords");
+            }
         }
         public IActionResult OnPostReturn()
         {
